@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
     <title>Shin-Ting Huang's homepage</title>
