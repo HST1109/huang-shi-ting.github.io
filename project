@@ -1,0 +1,60 @@
+<body>
+    <table>
+        <caption><b><p><font size="10">NBA</font></p></b></caption>
+        <tr>
+            <td style="width: 33%;">
+                <ul>
+                    <p><font size="5">東區</font></p>                
+                    <li><a href="https://tw.global.nba.com/teams/#!/hawks">亞特蘭大老鷹</a></li>    
+                    <li><a href="https://tw.global.nba.com/teams/#!/hornets">夏洛特黃蜂</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/heat">邁阿密熱火</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/magic">奧蘭多魔術</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/wizards">華盛頓巫師</a></li>
+                    <p><font size="5">西區</font></p>
+                    <li><a href="https://tw.global.nba.com/teams/#!/mavericks">達拉斯獨行俠</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/rockets">休士頓火箭</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/grizzlies">曼菲斯灰熊</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/pelicans">紐澳良鵜鶘</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/spurs">聖安東尼奧馬刺</a></li>
+                </ul>
+            </td>
+            <td style="width: 33%;">
+                <ul>
+                    <p><font size="5"></font></p>    
+                    <li><a href="https://tw.global.nba.com/teams/#!/celtics">波士頓賽爾提克</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/nets">布魯克林籃網</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/knicks">紐約尼克</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/sixers">費城七六人</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/raptors">多倫多暴龍</a></li>
+                    <p><font size="5"></font></p>    
+                    <li><a href="https://tw.global.nba.com/teams/#!/nuggets">丹佛金塊</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/timberwolves">明尼蘇達灰狼</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/thunder">奧克拉荷馬城雷霆</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/blazers">波特蘭拓荒者</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/jazz">猶他爵士</a></li>
+                </ul>
+            </td>
+            <td style="width: 33%;">
+                <ul>
+                    <p><font size="5"></font></p>    
+                    <li><a href="https://tw.global.nba.com/teams/#!/bulls">芝加哥公牛</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/cavaliers">克里夫蘭騎士</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/pistons">底特律活塞</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/pacers">印第安那溜馬</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/bucks">密爾瓦基公鹿</a></li>
+                    <p><font size="5"></font></p>    
+                    <li><a href="https://tw.global.nba.com/teams/#!/warriors">金洲勇士</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/clippers">洛杉磯快艇</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/lakers">洛杉磯湖人</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/suns">鳳凰城太陽</a></li>
+                    <li><a href="https://tw.global.nba.com/teams/#!/kings">沙加緬度國王 </a></li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</body>
+<tfoot>
+    <p style="text-align: center;">
+    參考網站:https://tw.global.nba.com/teamindex/
+    </p>
+</tfoot>
